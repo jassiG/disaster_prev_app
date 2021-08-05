@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" x="0" y="0" width="2837.83" height="2766.63" clip-path="url(#MapClipRectangle)" style="overflow:hidden;text-rendering:optimizeLegibility" xmlns="http://www.w3.org/2000/svg">
+	<title>Map Generated Using Maperitive (http://maperitive.net)</title>
+	<desc>Map Generator: Maperitive v2.4.3 by Igor Brejc
+Time: 07/30/2021 03:43:42
+</desc>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="MapClipRectangle">
+			<rect x="0" y="0" width="2837.83" height="2766.63" />
+		</clipPath>
+		<image id="symbol_tile_1" width="395" height="396" xlink:href="105310.20.png" />
+		<image id="symbol_tile_2" width="395" height="396" xlink:href="105310.21.png" />
+		<image id="symbol_tile_3" width="396" height="396" xlink:href="105310.22.png" />
+		<image id="symbol_tile_4" width="395" height="396" xlink:href="105310.23.png" />
+		<image id="symbol_tile_5" width="396" height="396" xlink:href="105310.24.png" />
+		<image id="symbol_tile_6" width="395" height="396" xlink:href="105310.25.png" />
+		<image id="symbol_tile_7" width="396" height="396" xlink:href="105310.26.png" />
+		<image id="symbol_tile_8" width="395" height="396" xlink:href="105310.27.png" />
+		<image id="symbol_tile_9" width="395" height="395" xlink:href="105311.22.png" />
+		<image id="symbol_tile_10" width="395" height="395" xlink:href="105311.23.png" />
+		<image id="symbol_tile_11" width="396" height="395" xlink:href="105311.24.png" />
+		<image id="symbol_tile_12" width="395" height="395" xlink:href="105311.25.png" />
+		<image id="symbol_tile_13" width="396" height="395" xlink:href="105311.26.png" />
+		<image id="symbol_tile_14" width="395" height="395" xlink:href="105311.27.png" />
+		<image id="symbol_tile_15" width="396" height="395" xlink:href="105311.28.png" />
+		<image id="symbol_tile_16" width="395" height="395" xlink:href="105311.29.png" />
+		<image id="symbol_tile_17" width="395" height="396" xlink:href="105312.21.png" />
+		<image id="symbol_tile_18" width="395" height="396" xlink:href="105312.22.png" />
+		<image id="symbol_tile_19" width="396" height="396" xlink:href="105312.23.png" />
+		<image id="symbol_tile_20" width="395" height="396" xlink:href="105312.24.png" />
+		<image id="symbol_tile_21" width="396" height="396" xlink:href="105312.25.png" />
+		<image id="symbol_tile_22" width="395" height="396" xlink:href="105312.26.png" />
+		<image id="symbol_tile_23" width="396" height="396" xlink:href="105312.27.png" />
+		<image id="symbol_tile_24" width="395" height="396" xlink:href="105312.28.png" />
+		<image id="symbol_tile_25" width="395" height="395" xlink:href="105313.21.png" />
+		<image id="symbol_tile_26" width="395" height="395" xlink:href="105313.22.png" />
+		<image id="symbol_tile_27" width="396" height="395" xlink:href="105313.23.png" />
+		<image id="symbol_tile_28" width="395" height="395" xlink:href="105313.24.png" />
+		<image id="symbol_tile_29" width="396" height="395" xlink:href="105313.25.png" />
+		<image id="symbol_tile_30" width="395" height="395" xlink:href="105313.26.png" />
+		<image id="symbol_tile_31" width="396" height="395" xlink:href="105313.27.png" />
+		<image id="symbol_tile_32" width="395" height="395" xlink:href="105313.28.png" />
+		<image id="symbol_tile_33" width="395" height="396" xlink:href="105314.21.png" />
+		<image id="symbol_tile_34" width="395" height="396" xlink:href="105314.22.png" />
+		<image id="symbol_tile_35" width="396" height="396" xlink:href="105314.23.png" />
+		<image id="symbol_tile_36" width="395" height="396" xlink:href="105314.24.png" />
+		<image id="symbol_tile_37" width="396" height="396" xlink:href="105314.25.png" />
+		<image id="symbol_tile_38" width="395" height="396" xlink:href="105314.26.png" />
+		<image id="symbol_tile_39" width="396" height="396" xlink:href="105314.27.png" />
+		<image id="symbol_tile_40" width="395" height="396" xlink:href="105314.28.png" />
+		<image id="symbol_tile_41" width="395" height="395" xlink:href="105315.21.png" />
+		<image id="symbol_tile_42" width="395" height="395" xlink:href="105315.22.png" />
+		<image id="symbol_tile_43" width="396" height="395" xlink:href="105315.23.png" />
+		<image id="symbol_tile_44" width="395" height="395" xlink:href="105315.24.png" />
+		<image id="symbol_tile_45" width="396" height="395" xlink:href="105315.25.png" />
+		<image id="symbol_tile_46" width="395" height="395" xlink:href="105315.26.png" />
+		<image id="symbol_tile_47" width="396" height="395" xlink:href="105315.27.png" />
+		<image id="symbol_tile_48" width="395" height="395" xlink:href="105315.28.png" />
+		<image id="symbol_tile_49" width="395" height="396" xlink:href="105316.11.png" />
+		<image id="symbol_tile_50" width="395" height="396" xlink:href="105316.12.png" />
+		<image id="symbol_tile_51" width="396" height="396" xlink:href="105316.13.png" />
+		<image id="symbol_tile_52" width="395" height="396" xlink:href="105316.14.png" />
+		<image id="symbol_tile_53" width="396" height="396" xlink:href="105316.15.png" />
+		<image id="symbol_tile_54" width="395" height="396" xlink:href="105316.16.png" />
+		<image id="symbol_tile_55" width="396" height="396" xlink:href="105316.17.png" />
+		<image id="symbol_tile_56" width="395" height="396" xlink:href="105316.18.png" />
+		<image id="symbol_tile_57" width="395" height="395" xlink:href="105317.png" />
+		<image id="symbol_tile_58" width="395" height="395" xlink:href="105317.1.png" />
+		<image id="symbol_tile_59" width="396" height="395" xlink:href="105317.2.png" />
+		<image id="symbol_tile_60" width="395" height="395" xlink:href="105317.3.png" />
+		<image id="symbol_tile_61" width="396" height="395" xlink:href="105317.4.png" />
+		<image id="symbol_tile_62" width="395" height="395" xlink:href="105317.5.png" />
+		<image id="symbol_tile_63" width="396" height="395" xlink:href="105317.6.png" />
+		<image id="symbol_tile_64" width="395" height="395" xlink:href="105317.7.png" />
+		<symbol id="symbol_text_65">
+			<text transform="translate(9.5,3210.93) scale(0.85,1)">33°18'50"</text>
+			<text transform="translate(9.5,3210.93) scale(0.85,1)">33°18'50"</text>
+		</symbol>
+		<symbol id="symbol_text_66">
+			<text transform="translate(9.5,2732.31) scale(0.85,1)">33°18'55"</text>
+			<text transform="translate(9.5,2732.31) scale(0.85,1)">33°18'55"</text>
+		</symbol>
+		<symbol id="symbol_text_67">
+			<text transform="translate(9.5,2253.68) scale(0.85,1)">33°19'</text>
+			<text transform="translate(9.5,2253.68) scale(0.85,1)">33°19'</text>
+		</symbol>
+		<symbol id="symbol_text_68">
+			<text transform="translate(9.5,1775.04) scale(0.85,1)">33°19'5"</text>
+			<text transform="translate(9.5,1775.04) scale(0.85,1)">33°19'5"</text>
+		</symbol>
+		<symbol id="symbol_text_69">
+			<text transform="translate(9.5,1296.4) scale(0.85,1)">33°19'10"</text>
+			<text transform="translate(9.5,1296.4) scale(0.85,1)">33°19'10"</text>
+		</symbol>
+		<symbol id="symbol_text_70">
+			<text transform="translate(9.5,817.74) scale(0.85,1)">33°19'15"</text>
+			<text transform="translate(9.5,817.74) scale(0.85,1)">33°19'15"</text>
+		</symbol>
+		<symbol id="symbol_text_71">
+			<text transform="translate(9.5,339.08) scale(0.85,1)">33°19'20"</text>
+			<text transform="translate(9.5,339.08) scale(0.85,1)">33°19'20"</text>
+		</symbol>
+		<symbol id="symbol_text_72">
+			<text transform="translate(-152.11,21.5) scale(0.85,1)">130°55'50"</text>
+			<text transform="translate(-152.11,21.5) scale(0.85,1)">130°55'50"</text>
+		</symbol>
+		<symbol id="symbol_text_73">
+			<text transform="translate(247.86,21.5) scale(0.85,1)">130°55'55"</text>
+			<text transform="translate(247.86,21.5) scale(0.85,1)">130°55'55"</text>
+		</symbol>
+		<symbol id="symbol_text_74">
+			<text transform="translate(656.82,21.5) scale(0.85,1)">130°56'</text>
+			<text transform="translate(656.82,21.5) scale(0.85,1)">130°56'</text>
+		</symbol>
+		<symbol id="symbol_text_75">
+			<text transform="translate(1051.05,21.5) scale(0.85,1)">130°56'5"</text>
+			<text transform="translate(1051.05,21.5) scale(0.85,1)">130°56'5"</text>
+		</symbol>
+		<symbol id="symbol_text_76">
+			<text transform="translate(1447.77,21.5) scale(0.85,1)">130°56'10"</text>
+			<text transform="translate(1447.77,21.5) scale(0.85,1)">130°56'10"</text>
+		</symbol>
+		<symbol id="symbol_text_77">
+			<text transform="translate(1847.74,21.5) scale(0.85,1)">130°56'15"</text>
+			<text transform="translate(1847.74,21.5) scale(0.85,1)">130°56'15"</text>
+		</symbol>
+		<symbol id="symbol_text_78">
+			<text transform="translate(2247.71,21.5) scale(0.85,1)">130°56'20"</text>
+			<text transform="translate(2247.71,21.5) scale(0.85,1)">130°56'20"</text>
+		</symbol>
+		<symbol id="symbol_text_79">
+			<text transform="translate(2647.68,21.5) scale(0.85,1)">130°56'25"</text>
+			<text transform="translate(2647.68,21.5) scale(0.85,1)">130°56'25"</text>
+		</symbol>
+		<symbol id="symbol_text_80">
+			<text transform="translate(59.84,2758.15) scale(0.85,1)">1 : 1 270</text>
+			<text transform="translate(59.84,2758.15) scale(0.85,1)">1 : 1 270</text>
+		</symbol>
+		<symbol id="symbol_text_81">
+			<text transform="translate(70.27,2733.15) scale(0.85,1)">50 m</text>
+			<text transform="translate(70.27,2733.15) scale(0.85,1)">50 m</text>
+		</symbol>
+		<symbol id="symbol_text_82">
+			<text transform="translate(2539.05,2758.74) scale(0.8,1)">© OpenStreetMap contributors. Tiles: CC-BY-SA 2.0</text>
+			<text transform="translate(2539.05,2758.74) scale(0.8,1)">© OpenStreetMap contributors. Tiles: CC-BY-SA 2.0</text>
+		</symbol>
+	</defs>
+	<g id="Map_background" style="fill:#FFFEFD;stroke:#000000" inkscape:groupmode="layer" inkscape:label="Map background">
+		<g id="map_background" inkscape:groupmode="layer" inkscape:label="map background">
+			<rect x="0" y="0" width="2837.83" height="2766.63" id="Map_Background_Fill" style="stroke:none" />
+		</g>
+	</g>
+	<g id="Bitmap__in_background" style="stroke:#000000" inkscape:groupmode="layer" inkscape:label="Bitmap (in background)">
+		<g id="tiles" inkscape:groupmode="layer" inkscape:label="tiles">
+			<use x="-12" y="-156" width="395" height="396" xlink:href="#symbol_tile_1" />
+			<use x="383" y="-156" width="395" height="396" xlink:href="#symbol_tile_2" />
+			<use x="778" y="-156" width="396" height="396" xlink:href="#symbol_tile_3" />
+			<use x="1174" y="-156" width="395" height="396" xlink:href="#symbol_tile_4" />
+			<use x="1569" y="-156" width="396" height="396" xlink:href="#symbol_tile_5" />
+			<use x="1965" y="-156" width="395" height="396" xlink:href="#symbol_tile_6" />
+			<use x="2360" y="-156" width="396" height="396" xlink:href="#symbol_tile_7" />
+			<use x="2756" y="-156" width="395" height="396" xlink:href="#symbol_tile_8" />
+			<use x="-12" y="240" width="395" height="395" xlink:href="#symbol_tile_9" />
+			<use x="383" y="240" width="395" height="395" xlink:href="#symbol_tile_10" />
+			<use x="778" y="240" width="396" height="395" xlink:href="#symbol_tile_11" />
+			<use x="1174" y="240" width="395" height="395" xlink:href="#symbol_tile_12" />
+			<use x="1569" y="240" width="396" height="395" xlink:href="#symbol_tile_13" />
+			<use x="1965" y="240" width="395" height="395" xlink:href="#symbol_tile_14" />
+			<use x="2360" y="240" width="396" height="395" xlink:href="#symbol_tile_15" />
+			<use x="2756" y="240" width="395" height="395" xlink:href="#symbol_tile_16" />
+			<use x="-12" y="635" width="395" height="396" xlink:href="#symbol_tile_17" />
+			<use x="383" y="635" width="395" height="396" xlink:href="#symbol_tile_18" />
+			<use x="778" y="635" width="396" height="396" xlink:href="#symbol_tile_19" />
+			<use x="1174" y="635" width="395" height="396" xlink:href="#symbol_tile_20" />
+			<use x="1569" y="635" width="396" height="396" xlink:href="#symbol_tile_21" />
+			<use x="1965" y="635" width="395" height="396" xlink:href="#symbol_tile_22" />
+			<use x="2360" y="635" width="396" height="396" xlink:href="#symbol_tile_23" />
+			<use x="2756" y="635" width="395" height="396" xlink:href="#symbol_tile_24" />
+			<use x="-12" y="1031" width="395" height="395" xlink:href="#symbol_tile_25" />
+			<use x="383" y="1031" width="395" height="395" xlink:href="#symbol_tile_26" />
+			<use x="778" y="1031" width="396" height="395" xlink:href="#symbol_tile_27" />
+			<use x="1174" y="1031" width="395" height="395" xlink:href="#symbol_tile_28" />
+			<use x="1569" y="1031" width="396" height="395" xlink:href="#symbol_tile_29" />
+			<use x="1965" y="1031" width="395" height="395" xlink:href="#symbol_tile_30" />
+			<use x="2360" y="1031" width="396" height="395" xlink:href="#symbol_tile_31" />
+			<use x="2756" y="1031" width="395" height="395" xlink:href="#symbol_tile_32" />
+			<use x="-12" y="1426" width="395" height="396" xlink:href="#symbol_tile_33" />
+			<use x="383" y="1426" width="395" height="396" xlink:href="#symbol_tile_34" />
+			<use x="778" y="1426" width="396" height="396" xlink:href="#symbol_tile_35" />
+			<use x="1174" y="1426" width="395" height="396" xlink:href="#symbol_tile_36" />
+			<use x="1569" y="1426" width="396" height="396" xlink:href="#symbol_tile_37" />
+			<use x="1965" y="1426" width="395" height="396" xlink:href="#symbol_tile_38" />
+			<use x="2360" y="1426" width="396" height="396" xlink:href="#symbol_tile_39" />
+			<use x="2756" y="1426" width="395" height="396" xlink:href="#symbol_tile_40" />
+			<use x="-12" y="1822" width="395" height="395" xlink:href="#symbol_tile_41" />
+			<use x="383" y="1822" width="395" height="395" xlink:href="#symbol_tile_42" />
+			<use x="778" y="1822" width="396" height="395" xlink:href="#symbol_tile_43" />
+			<use x="1174" y="1822" width="395" height="395" xlink:href="#symbol_tile_44" />
+			<use x="1569" y="1822" width="396" height="395" xlink:href="#symbol_tile_45" />
+			<use x="1965" y="1822" width="395" height="395" xlink:href="#symbol_tile_46" />
+			<use x="2360" y="1822" width="396" height="395" xlink:href="#symbol_tile_47" />
+			<use x="2756" y="1822" width="395" height="395" xlink:href="#symbol_tile_48" />
+			<use x="-12" y="2217" width="395" height="396" xlink:href="#symbol_tile_49" />
+			<use x="383" y="2217" width="395" height="396" xlink:href="#symbol_tile_50" />
+			<use x="778" y="2217" width="396" height="396" xlink:href="#symbol_tile_51" />
+			<use x="1174" y="2217" width="395" height="396" xlink:href="#symbol_tile_52" />
+			<use x="1569" y="2217" width="396" height="396" xlink:href="#symbol_tile_53" />
+			<use x="1965" y="2217" width="395" height="396" xlink:href="#symbol_tile_54" />
+			<use x="2360" y="2217" width="396" height="396" xlink:href="#symbol_tile_55" />
+			<use x="2756" y="2217" width="395" height="396" xlink:href="#symbol_tile_56" />
+			<use x="-12" y="2613" width="395" height="395" xlink:href="#symbol_tile_57" />
+			<use x="383" y="2613" width="395" height="395" xlink:href="#symbol_tile_58" />
+			<use x="778" y="2613" width="396" height="395" xlink:href="#symbol_tile_59" />
+			<use x="1174" y="2613" width="395" height="395" xlink:href="#symbol_tile_60" />
+			<use x="1569" y="2613" width="396" height="395" xlink:href="#symbol_tile_61" />
+			<use x="1965" y="2613" width="395" height="395" xlink:href="#symbol_tile_62" />
+			<use x="2360" y="2613" width="396" height="395" xlink:href="#symbol_tile_63" />
+			<use x="2756" y="2613" width="395" height="395" xlink:href="#symbol_tile_64" />
+		</g>
+	</g>
+	<g id="Map_decoration" inkscape:groupmode="layer" inkscape:label="Map decoration">
+		<g id="map_grid__latitude" style="stroke:#B0B0B0;stroke-width:0.5;font-family:Tahoma;font-size:12px;font-weight:bold" inkscape:groupmode="layer" inkscape:label="map grid (latitude)">
+			<path style="fill:none" d="M-0.5 3206.17 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_65" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_65" />
+			</g>
+			<path style="fill:none" d="M-0.5 2727.55 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_66" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_66" />
+			</g>
+			<path style="fill:none" d="M-0.5 2248.92 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_67" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_67" />
+			</g>
+			<path style="fill:none" d="M-0.5 1770.28 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_68" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_68" />
+			</g>
+			<path style="fill:none" d="M-0.5 1291.64 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_69" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_69" />
+			</g>
+			<path style="fill:none" d="M-0.5 812.98 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_70" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_70" />
+			</g>
+			<path style="fill:none" d="M-0.5 334.32 h2837.83" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_71" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_71" />
+			</g>
+		</g>
+		<g id="map_grid__longitude" style="stroke:#B0B0B0;stroke-width:0.5;font-family:Tahoma;font-size:12px;font-weight:bold" inkscape:groupmode="layer" inkscape:label="map grid (longitude)">
+			<path style="fill:none" d="M-122.83 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_72" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_72" />
+			</g>
+			<path style="fill:none" d="M277.14 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_73" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_73" />
+			</g>
+			<path style="fill:none" d="M677.11 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_74" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_74" />
+			</g>
+			<path style="fill:none" d="M1077.08 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_75" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_75" />
+			</g>
+			<path style="fill:none" d="M1477.05 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_76" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_76" />
+			</g>
+			<path style="fill:none" d="M1877.02 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_77" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_77" />
+			</g>
+			<path style="fill:none" d="M2276.99 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_78" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_78" />
+			</g>
+			<path style="fill:none" d="M2676.96 2766.13 v-2766.63" />
+			<g style="stroke-width:2;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_79" />
+			</g>
+			<g style="fill:#303030;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_79" />
+			</g>
+		</g>
+		<g id="map_scale__text" style="stroke:#000000;font-family:Tahoma;font-size:12px;font-weight:bold" inkscape:groupmode="layer" inkscape:label="map scale (text)">
+			<g style="stroke-width:3;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_80" />
+			</g>
+			<g style="fill:#000000;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_80" />
+			</g>
+			<g style="stroke-width:3;stroke:#FFFFFF;fill:none;stroke-opacity:1">
+				<use xlink:href="#symbol_text_81" />
+			</g>
+			<g style="fill:#000000;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_81" />
+			</g>
+		</g>
+		<g id="map_scale__indicator" style="fill:#000000;stroke:#000000" inkscape:groupmode="layer" inkscape:label="map scale (indicator)">
+			<rect x="6" y="2738.63" width="31.99" height="7" style="stroke:#000000" />
+		</g>
+		<g id="map_scale__indicator1" style="fill:#FFFFFF;stroke:#000000" inkscape:groupmode="layer" inkscape:label="map scale (indicator)">
+			<rect x="36.99" y="2738.63" width="31.99" height="7" style="stroke:#000000" />
+		</g>
+		<g id="map_scale__indicator11" style="fill:#000000;stroke:#000000" inkscape:groupmode="layer" inkscape:label="map scale (indicator)">
+			<rect x="67.99" y="2738.63" width="31.99" height="7" style="stroke:#000000" />
+		</g>
+		<g id="map_scale__indicator111" style="fill:#FFFFFF;stroke:#000000" inkscape:groupmode="layer" inkscape:label="map scale (indicator)">
+			<rect x="98.98" y="2738.63" width="31.99" height="7" style="stroke:#000000" />
+		</g>
+		<g id="map_scale__indicator1111" style="fill:#000000;stroke:#000000" inkscape:groupmode="layer" inkscape:label="map scale (indicator)">
+			<rect x="129.97" y="2738.63" width="31.99" height="7" style="stroke:#000000" />
+		</g>
+		<g id="floating_label" style="stroke:#000000;font-family:Tahoma;font-size:14px;font-weight:bold" inkscape:groupmode="layer" inkscape:label="floating label">
+			<g style="stroke-width:3;stroke:#FFFFFF;fill:none;stroke-opacity:0.75">
+				<use xlink:href="#symbol_text_82" />
+			</g>
+			<g style="fill:#000000;stroke:none;fill-opacity:1">
+				<use xlink:href="#symbol_text_82" />
+			</g>
+		</g>
+	</g>
+	<g id="Map_frame" style="stroke:black;stroke-width:2;fill:none" inkscape:groupmode="layer" inkscape:label="Map frame">
+		<rect x="0" y="0" width="2837.83" height="2766.63" />
+	</g>
+</svg>
