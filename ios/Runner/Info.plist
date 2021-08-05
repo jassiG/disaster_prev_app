@@ -22,7 +22,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>To import maps</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>????</string>
+	<string>For using the camera to import the map</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
