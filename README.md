@@ -1,4 +1,9 @@
 # Zynas-Disaster-Prevention-App  
-A disaster control App made for Hita city students.
-Quick Demo:
-https://user-images.githubusercontent.com/55924890/128407367-b1b9782b-9c1c-4f56-bf20-553955645945.mp4
+____
+A disaster control App made for Hita city students.  
+
+## Quick Demo:
+___
+https://user-images.githubusercontent.com/55924890/128407511-774a4b07-1ef9-4f91-9a8a-5ba382388b23.mp4
+
+
