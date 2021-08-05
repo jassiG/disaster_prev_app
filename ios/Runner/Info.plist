@@ -18,7 +18,9 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To import maps</string>
 	<key>NSCameraUsageDescription</key>
+	<string>To import maps</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
