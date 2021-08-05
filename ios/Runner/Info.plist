@@ -17,6 +17,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
+    <string>com.jassi.disasterpreventionapp</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>To import maps</string>
 	<key>NSCameraUsageDescription</key>
