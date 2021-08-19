@@ -1,9 +1,12 @@
-# Zynas-Disaster-Prevention-App  
-____
-A disaster control App made for Hita city students.  
+# Zynas Disaster Prevention App
 
-## Quick Demo:
-___
-https://user-images.githubusercontent.com/55924890/128407511-774a4b07-1ef9-4f91-9a8a-5ba382388b23.mp4
+A disaster control App.
 
+### Installing and Running
 
+clone the repository and build the app by using  
+`Flutter pub get`  
+And then run it by using  
+`Flutter run`  
+### In Case of an Error
+Try using  `Flutter run --no-sound-null-safety` instead of `Flutter run`
